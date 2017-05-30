@@ -35,3 +35,19 @@ a {
 a:hover {
   color: #E95853;
 }
+
+.logo{
+  float: right;
+}
+
+header{
+  position: fixed;
+  background: white;
+  width: 100%;
+  top: 0;
+}
+
+.menu{
+  padding: 14px 70px;
+  overflow: auto;
+}
