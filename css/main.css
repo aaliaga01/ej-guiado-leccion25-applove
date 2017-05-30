@@ -52,6 +52,12 @@ header{
   overflow: auto;
 }
 
+.centrar{
+  width: 70%;
+  margin: 0 auto;
+
+}
+
 #home{
   background-image: url(../assets/images/bg-home.jpg);
   background-position: center;
